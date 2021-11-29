@@ -1,0 +1,40 @@
+{
+  "nav_menu": [
+    {
+      "title": "A new story",
+      "detail": "This story has todo with reminders",
+      "category": "reminders",
+      "id": "pSXYnMo"
+    },
+    {
+      "title": "watching tv shows",
+      "detail": "I love watching movies. I even watch movies while I'm working. Not really watching, just listening as my background",
+      "category": "todos",
+      "id": "TWi6KRO"
+    },
+    {
+      "title": "very beautiful",
+      "detail": "Cherry blossom smells very nice, if I can have a little of flower scent for Grandpa, must be very nice.",
+      "category": "reminders",
+      "id": "ifAP2ck"
+    },
+    {
+      "title": "good morning",
+      "detail": "What do you think constitutes a good morning?\nIs it when your neighbor stop bothering you and let you sleep all through the night?",
+      "category": "reminders",
+      "id": "fP-ATBc"
+    },
+    {
+      "title": "Money isn' t everything",
+      "detail": "Money is very important. But you need to find the job that you love, because no amount of money can make you happy doing the job that you hate",
+      "category": "money",
+      "id": "pjkKu2m"
+    },
+    {
+      "title": "test",
+      "detail": "this is the test. No matter how hard just hang in there until you have your dream house!",
+      "category": "money",
+      "id": "pVo-6Lf"
+    }
+  ]
+}
